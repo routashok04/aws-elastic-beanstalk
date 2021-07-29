@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloController {
 
     public String ShowAws(){
-        return "This is AWS Elastic beanStalk";
+        return "This is AWS Elastic beanStalk2";
     }
 }
